@@ -110,7 +110,7 @@ const start = new Date(US.startDate);
 $("to").textContent = "for " + US.herName;
 $("tag").textContent = matchMedia("(prefers-reduced-motion: reduce)").matches ? US.tagline : "";
 $("since").textContent = start.toLocaleDateString("en-GB", {day:"numeric", month:"long", year:"numeric"});
-document.title = "One year — " + US.herName;
+document.title = "6 Months — " + US.herName;
 const fmtDate = d => /^\d{4}-\d{2}-\d{2}$/.test(d) ? new Date(d + "T00:00:00").toLocaleDateString("en-GB", {day:"numeric", month:"short", year:"numeric"}) : d;
 $("moments").innerHTML = US.moments.map(m => `
   <div class="moment">
