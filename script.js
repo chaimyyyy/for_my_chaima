@@ -78,6 +78,7 @@ const US = {
   ],
   songsIntro: "Songs that made me think of you.",
   songs: [ 
+    { title: "Hey There Delilah", artist: "Plain White T's", note: "I'd walk to you if I had no other way", url: "https://open.spotify.com/track/4RCWB3V8V0dignt99LZ8vH?si=943844549d2e4040" },
     { title: "Heartbeat", artist: "Ghostly Kisses", note: "I will never run away from you", url: "https://open.spotify.com/track/7BjZD4TVbmqNAJpEbvS6By?si=27b2d8ee950b446d" },
     { title: "I Wouldn't Mind", artist: "He Is We", note: "Forever is a long time but i wouldn't mind spending it by your side", url: "https://open.spotify.com/track/1XcFa5d1qoWdCIICnXlggj?si=479ca5eb0e6049fb" },
     { title: "505", artist: "Arctic Monkeys", note: "I'd probably still adore you with your hands around my neck", url: "https://open.spotify.com/track/0BxE4FqsDD1Ot4YuBXwAPp?si=db33d880edd842b0" }
