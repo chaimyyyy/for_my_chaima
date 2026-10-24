@@ -1,7 +1,7 @@
 const US = {
   herName: "Chaima",
   yourName: "Hadi",
-  startDate: "2026-04-27T00:00:00", // the day it started
+  startDate: "2026-04-27T00:00:00", 
   tagline: "Still counting.",
   moments: [
     { date: "2026-01-15", title: "The First Time We talked", text: "I will never forget this day, honestly it feels like a dream. Back then i hated it but now i would do anything to go back to that day"}, 
