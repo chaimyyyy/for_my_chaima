@@ -76,7 +76,7 @@ const US = {
     { when: "The next morning", text: "Il wake up very early and show up at ur house, hold ur hand and take u drink something" },
     { when: "Before I leave", text: "Don't wanna think about that" }
   ],
-  songsIntro: "Songs that made me think of you.",
+  songsIntro: "Songs for you",
   songs: [ 
     { title: "Hey There Delilah", artist: "Plain White T's", note: "I'd walk to you if I had no other way", url: "https://open.spotify.com/track/4RCWB3V8V0dignt99LZ8vH?si=943844549d2e4040" },
     { title: "Heartbeat", artist: "Ghostly Kisses", note: "I will never run away from you", url: "https://open.spotify.com/track/7BjZD4TVbmqNAJpEbvS6By?si=27b2d8ee950b446d" },
