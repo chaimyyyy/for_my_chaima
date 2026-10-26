@@ -56,7 +56,7 @@ const US = {
   quiz: [
     { q: "Where was our first date?", options: ["In the tram", "Volleyball", "I don't remember"], answer: 0 },
     { q: "How many steps did we walk the first time we went out together", options: ["26547 steps", "????", "a lot"], answer: 2 },
-    { q: "What's my nickname for you?", options: ["Chaimy", "Chaimy", "Chaimy", "ChAiMY"], answer: 3 }
+    { q: "What's my nickname for you?", options: ["Cutie Patootie", "Drama Queen", "Calcium", "Chaimy"], answer: 3 }
   ],
   quizDone: "Even if you got none of them right I still love you ^^ !",
   coupons: [
